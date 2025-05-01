@@ -1,93 +1,68 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi, I'm Saqib 👋</h1>
+<p align="center"><i>Frontend Developer | Quietly Crafting Code with Purpose</i></p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=00FFD9&center=true&vCenter=true&width=440&lines=React%2C+Next.js+%7C+Minimalist+Thinker;Lover+of+clean+code+and+quiet+UI" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/saqib-ahmad-0998272a2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/saqib.ahmad.52459615/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/saqib__0404/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
-  </a>
-</div>
+---
 
-###
+### 🧭 About Me
+I’m a frontend developer from **Bangladesh**, quietly obsessed with clarity — in code, design, and intent.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=saqib0404.saqib0404&"  />
-</div>
+- 🛠 Building responsive UIs with **React** & **Tailwind**
+- 🔄 Managing state like a minimalist with **Redux**
+- ⚙️ Exploring performance in **Next.js** apps
+- 📚 Always learning — always optimizing
 
-###
+> 🧩 *"My goal isn’t just to code more — it’s to code meaningfully."*
 
-<h1 align="center">hey there 👋, I'm Saqib</h1>
+---
 
-###
+### 🧰 Tech Stack
 
-<h3 align="left">👩‍💻  About Me</h3>
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 
-###
+**Backend & Tools**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<p align="left">I'm from your neighbourhood, Bangladesh<br><br>- 📚 I'm currently learning Nextjs and Redux <br>- ⚡ In my free time I CODE</p>
+---
 
-###
+### 🌱 Currently Growing In
+- 🧠 Expanding expertise in backend development, with a strong emphasis on clean and efficient code.
+- 📚 Continuously learning and adapting to new practices and technologies to enhance coding skills.
+- 🔧 Committed to writing scalable, maintainable, and testable code while refining development practices.
 
-<h3 align="left">🛠 Skills :</h3>
+---
 
-###
+### ⚡ Fun Fact
+Yes, I love my sleep 😴 — but when I’m in the zone, I can debug longer than I can stay awake.  
+Quiet by nature, but sharp in logic.
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-</div>
+---
 
-###
+### 📈 GitHub Stats
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saqib0404&show_icons=true&theme=tokyonight" width="48%" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=saqib0404&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+### 🤝 Let's Connect
+<p>
+  <a href="https://www.linkedin.com/in/saqib-ahmad-0998272a2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://saqib-ahmad.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=flat&logo=vercel&logoColor=white"></a>
+</p>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/saqib0404/count.svg?"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://profile-counter.glitch.me/saqib0404/count.svg" />
+</p>
