@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Saqib 👋</h1>
+<h1>
+<p align="center">
+  <!-- Your custom banner -->
+  <img src="saqib.png" alt="Saqib Banner" width="900" />
+</p>
+</h1>
 <p align="center"><i>Frontend Developer | Quietly Crafting Code with Purpose</i></p>
 
 <p align="center">
