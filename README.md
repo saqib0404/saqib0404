@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm from your neighbourhood, Bangladesh<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm from your neighbourhood, Bangladesh<br><br>- 📚 I'm currently learning Nextjs and Redux <br>- ⚡ In my free time I CODE</p>
 
 ###
 
