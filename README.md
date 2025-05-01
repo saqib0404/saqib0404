@@ -8,12 +8,12 @@
 ---
 
 ### 🧭 About Me
-I’m a frontend developer from **Bangladesh**, quietly obsessed with clarity — in code, design, and intent.
+I’m a frontend developer from **Bangladesh**, quietly obsessed with clarity - in code, design, and intent.
 
 - 🛠 Building responsive UIs with **React** & **Tailwind**
 - 🔄 Managing state like a minimalist with **Redux**
 - ⚙️ Exploring performance in **Next.js** apps
-- 📚 Always learning — always optimizing
+- 📚 Always learning - always optimizing
 
 > 🧩 *"My goal isn’t just to code more — it’s to code meaningfully."*
 
@@ -44,7 +44,7 @@ I’m a frontend developer from **Bangladesh**, quietly obsessed with clarity �
 ---
 
 ### ⚡ Fun Fact
-Yes, I love my sleep 😴 — but when I’m in the zone, I can debug longer than I can stay awake.  
+Yes, I love my sleep 😴 - but when I’m in the zone, I can debug longer than I can stay awake.  
 Quiet by nature, but sharp in logic.
 
 ---
