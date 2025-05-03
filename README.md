@@ -4,7 +4,7 @@
   <img src="saqib.png" alt="Saqib Banner" width="900" />
 </p>
 </h1>
-<p align="center"><i>Frontend Developer | Quietly Crafting Code with Purpose</i></p>
+<p align="center"><i>Web Developer | Quietly Crafting Code with Purpose</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=00FFD9&center=true&vCenter=true&width=440&lines=React%2C+Next.js+%7C+Minimalist+Thinker;Lover+of+clean+code+and+quiet+UI" />
@@ -20,7 +20,7 @@ I’m a frontend developer from **Bangladesh**, quietly obsessed with clarity - 
 - ⚙️ Exploring performance in **Next.js** apps
 - 📚 Always learning - always optimizing
 
-> 🧩 *"My goal isn’t just to code more — it’s to code meaningfully."*
+> 🧩 *"My goal isn’t just to code more - it’s to code meaningfully."*
 
 ---
 
