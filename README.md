@@ -1,73 +1,222 @@
-<h1>
-<p align="center">
-  <!-- Your custom banner -->
-  <img src="saqib.png" alt="Saqib Banner" width="900" />
-</p>
-</h1>
-<p align="center"><i>Web Developer | Quietly Crafting Code with Purpose</i></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=00FFD9&center=true&vCenter=true&width=440&lines=React%2C+Next.js+%7C+Minimalist+Thinker;Lover+of+clean+code+and+quiet+UI" />
-</p>
+<img src="saqib.png" alt="Saqib Ahmad — Full-Stack Developer" width="100%" />
 
----
+### Full-Stack Developer | React • Next.js • Node.js • TypeScript
 
-### 🧭 About Me
-I’m a frontend developer from **Bangladesh**, quietly obsessed with clarity - in code, design, and intent.
+**Building scalable web applications with clean interfaces, reliable backends, and maintainable code.**
 
-- 🛠 Building responsive UIs with **React** & **Tailwind**
-- 🔄 Managing state like a minimalist with **Redux**
-- ⚙️ Exploring performance in **Next.js** apps
-- 📚 Always learning - always optimizing
+<br />
 
-> 🧩 *"My goal isn’t just to code more - it’s to code meaningfully."*
+<a href="https://saqib-ahmad-dev.netlify.app/">
+  <img src="https://img.shields.io/badge/View_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/saqib-ahmad-dev">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
----
+<br /><br />
 
-### 🧰 Tech Stack
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Modern+and+Scalable+Applications;Clean+Code.+Thoughtful+Design.+Real+Solutions." alt="Typing introduction" />
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-
-**Backend & Tools**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
 
 ---
 
-### 🌱 Currently Growing In
-- 🧠 Expanding expertise in backend development, with a strong emphasis on clean and efficient code.
-- 📚 Continuously learning and adapting to new practices and technologies to enhance coding skills.
-- 🔧 Committed to writing scalable, maintainable, and testable code while refining development practices.
+## 👨‍💻 About Me
+
+I am a **Full-Stack Developer from Bangladesh** focused on building modern, responsive, and scalable web applications.
+
+I enjoy transforming ideas into practical digital products by combining thoughtful user interfaces with secure and efficient backend systems. My development approach emphasizes **clean architecture, maintainable code, performance, accessibility, and user experience**.
+
+* 🚀 Building full-stack applications with **React, Next.js, Node.js, and TypeScript**
+* 🎨 Creating responsive interfaces using **Tailwind CSS**
+* ⚙️ Developing REST APIs with **Node.js, Express.js, and Go**
+* 🗄️ Working with relational and NoSQL databases
+* 🔐 Implementing authentication with **OAuth and Firebase**
+* 🐳 Containerizing applications with **Docker**
+* ☁️ Deploying production-ready applications through **Vercel, Netlify and Render**
+
+> **I do not just build features. I build maintainable solutions that solve real problems.**
 
 ---
 
-### ⚡ Fun Fact
-Yes, I love my sleep 😴 - but when I’m in the zone, I can debug longer than I can stay awake.  
-Quiet by nature, but sharp in logic.
+## 🛠️ Technical Skills
 
----
+### Frontend Development
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saqib0404&show_icons=true&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 🤝 Let's Connect
 <p>
-  <a href="https://www.linkedin.com/in/saqib-ahmad-0998272a2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://saqib-ahmad.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=flat&logo=vercel&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css" alt="Frontend technologies" />
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/saqib0404/count.svg" />
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,prisma" alt="Backend technologies" />
 </p>
+
+### Databases and Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" alt="Databases and services" />
+</p>
+
+### Development Tools and Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" alt="Development tools" />
+</p>
+
+---
+
+## 💡 What I Bring to a Team
+
+```text
+✓ Responsive and accessible user interfaces
+✓ Reusable and maintainable component architecture
+✓ Secure API and authentication integration
+✓ Relational and NoSQL database development
+✓ Clean Git and GitHub collaboration workflows
+✓ Performance-focused full-stack development
+✓ Strong problem-solving and debugging skills
+```
+
+---
+
+## 🌱 Currently Improving
+
+I am currently strengthening my knowledge in:
+
+* Advanced backend architecture and API design
+* Go development for high-performance backend services
+* Docker-based development and deployment workflows
+* Database optimization and scalable data modeling
+* Application security and authentication
+* Automated testing and production-ready development practices
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/saqib0404">
+  <img src="https://img.shields.io/badge/GitHub-View_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Saqib Ahmad's GitHub profile" />
+</a>
+
+<a href="https://github.com/saqib0404?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore_Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Explore Saqib Ahmad's repositories" />
+</a>
+
+</div>
+
+<br />
+
+I actively use GitHub to build, document, and improve full-stack applications using **React, Next.js, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Prisma, Docker, and Go**.
+
+My repositories demonstrate practical experience in:
+
+- Developing responsive frontend applications
+- Building REST APIs and backend services
+- Designing relational and NoSQL databases
+- Implementing authentication and authorization
+- Structuring maintainable full-stack projects
+- Deploying applications to production
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 SpotSync — Parking Reservation API
+
+A high-performance parking management and reservation API built with **Go**. It uses strict database row-level locking to prevent race conditions and overbooking during concurrent reservations.
+
+The system tracks real-time availability across **EV and standard parking zones** and provides secure, role-based access through JWT authentication.
+
+**Key Features**
+
+* Concurrency-safe parking reservations
+* Database row-level locking
+* Real-time EV and standard zone availability
+* Role-based authorization
+* Secure JWT authentication
+* Scalable REST API architecture
+
+**Tech Stack:** Go, PostgreSQL, JWT, REST API, Render
+
+<a href="https://spot-sync-bhq9.onrender.com">
+  <img src="https://img.shields.io/badge/Live_API-Open_SpotSync-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Open SpotSync API" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚨 CrisisDesk AI — Emergency Triage API
+
+A backend-focused emergency triage API built with **Node.js, Express, and Prisma**. It uses AI to process multilingual citizen reports submitted in **Bangla and English**.
+
+The system classifies, structures, prioritizes, and deduplicates emergency reports, helping public service teams identify critical incidents and respond more effectively.
+
+**Key Features**
+
+* AI-assisted emergency report classification
+* Bangla and English report processing
+* Duplicate incident detection
+* Automated priority assessment
+* Structured incident data generation
+* Backend API for public service management
+
+**Tech Stack:** Node.js, Express.js, Prisma, AI Integration, REST API, Render
+
+<a href="https://crisisdesk-ai-hackathon.onrender.com">
+  <img src="https://img.shields.io/badge/Live_API-Open_CrisisDesk_AI-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Open CrisisDesk AI API" />
+</a>
+
+</td>
+</tr>
+</table>
+
+> These projects demonstrate my experience in backend engineering, API development, database concurrency, authentication, artificial intelligence integration, and production deployment.
+
+
+## 🌐 Explore My Work
+
+My portfolio contains selected projects that demonstrate my experience in frontend development, backend development, API integration, database management, authentication, responsive design, and application deployment.
+
+<div align="center">
+
+### [Visit My Developer Portfolio](https://saqib-ahmad-dev.netlify.app/)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I am always interested in connecting with recruiters, developers, and teams working on meaningful digital products.
+
+Whether you would like to discuss a **full-stack development opportunity, professional collaboration, or software project**, feel free to reach out through LinkedIn.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/saqib-ahmad-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Saqib_Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Saqib Ahmad on LinkedIn" />
+</a>
+
+<a href="https://saqib-ahmad-dev.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Saqib Ahmad's portfolio" />
+</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=saqib0404&label=Profile%20Visitors&color=00c7b7&style=flat-square" alt="GitHub profile visitor count" />
+
+<br /><br />
+
+### Clean code. Thoughtful design. Reliable solutions.
+
+</div>
